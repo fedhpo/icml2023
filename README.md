@@ -108,7 +108,7 @@ We take Figure 11 as an example.
 
 ## Using FedHPOBench with HPOBench
 
-HPOBench is a very popular and influential library in the HPO field, so we provide serval demos for exposing FedHPOBench through the interfaces of HPOBench in `demo\`:
+HPOBench is a very popular and influential library in the HPO field, so we provide serval demos for exposing FedHPOBench through the interfaces of HPOBench in `demo/`:
 
 How to use:
 
